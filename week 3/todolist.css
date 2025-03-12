@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+.my-list {
+    background-color: #f7f381;
+    width: 300px; /* Adjust as needed */
+    padding: 20px;
+    margin: 20px auto; /* Center the list */
+}
+
+h1 {
+    text-align: center;
+}
+
+.day-info {
+    text-align: center;
+}
+
+ol {
+    padding-left: 20px;
+}
